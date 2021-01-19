@@ -16,7 +16,5 @@ namespace Metotlar
 
         public int StokAdedi { get; set; }
 
-        public double YildizSayisi { get; set; }
-
     }
 }
