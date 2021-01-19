@@ -14,7 +14,7 @@ namespace Metotlar
         {
             Console.WriteLine("Tebrikler!Sepete eklendi : " + urun.Adi);
             //
-            // var-iable
+            //
             //
         }
 
