@@ -33,7 +33,7 @@ namespace KampIntro
 
             if (sistemeGirisYapmişMi == true)
             {
-                Console.WriteLine("Kullanıcı ayarları butonu);
+                Console.WriteLine("Kullanıcı ayarları butonu");
             }
             else
             {

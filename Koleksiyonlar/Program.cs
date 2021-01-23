@@ -31,3 +31,5 @@ namespace Koleksiyonlar
             //list bir sınıf . yeşil renkte olanlar sınıf . list olmasaydı biz bir klasa bu görevi nasıl yükleriz?
             //yeni proje ekledik genericsintro
         }
+    }
+}
